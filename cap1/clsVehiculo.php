@@ -1,4 +1,5 @@
-classVehiculo {
+<?php 
+class Vehiculo {
 	private $patente;
 	private $origen;
 	private $anio;

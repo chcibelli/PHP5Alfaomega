@@ -1,4 +1,5 @@
-classNoticias {
+<?php 
+class Noticias {
 	public function verNoticia(){
 		$arrArgs = func_get_args();
 		

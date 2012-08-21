@@ -1,3 +1,4 @@
+<?php 
 class Avion extends Vehiculo{
 	private $plazas;
 
